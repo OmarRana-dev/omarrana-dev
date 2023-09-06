@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OMAR RANA
-- 👀 I’m interested in IOT & Developement.
+- 👀 I’m interested in CyberSecurity & Developement.
 - 🌱 I'm currently learning Web Development.
 - 😋 Hunger for learning Something new.
 - 📈 I'm Starting my Career at the beginning of 2022.
