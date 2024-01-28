@@ -1,4 +1,4 @@
-# Coffee, code, and conquering the web! ☕ That's me, UMAR RANA! 👋
+# Hi, I'm UMAR! 👋
 
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theRealOmarDev) <br>
@@ -42,15 +42,7 @@
 📫 📫 How to reach me ... With my email →: omarrana190@gmail.com
 
 ## 🛠 Skills
-![javascript-1 (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ef6e2c90-c627-433b-b794-98710cba2597)
-
-![CSS_icon (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/73b1569a-e540-44b9-a89f-0794379961da)
-
-![HTML5_icon (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ac4dafff-dcea-4117-a163-4a7a3c2653de)
-
-![pythonlogo (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/8e950f2b-ba12-4be6-b02b-fa2daee2d49b)
-
-![gitlogo](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/6c7f3297-485c-4ce6-81e9-0a7a12921f7e)
+![javascript-1 (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ef6e2c90-c627-433b-b794-98710cba2597) ![CSS_icon (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/73b1569a-e540-44b9-a89f-0794379961da) ![HTML5_icon (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ac4dafff-dcea-4117-a163-4a7a3c2653de) ![pythonlogo (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/8e950f2b-ba12-4be6-b02b-fa2daee2d49b) ![gitlogo](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/6c7f3297-485c-4ce6-81e9-0a7a12921f7e)
 <!---
 OmarRana-dev/omarrana-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
