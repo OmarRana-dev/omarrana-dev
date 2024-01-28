@@ -2,14 +2,10 @@
 <h3 align="center">A passionate Web Developer from Pakistan.</h3>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarrana-dev&label=Profile%20views&color=0e75b6&style=flat" alt="omarrana-dev" /> </p>
 <p align="left"> <a href="https://twitter.com/therealomardev" target="blank"><img src="https://img.shields.io/twitter/follow/therealomardev?logo=twitter&style=for-the-badge" alt="therealomardev" /></a> </p>
 
-<div align="center"> <img alt="Coding" width="300" src="https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/e44ba89c-d8fb-49c4-9d1c-9a8adf033b2a" /> </div>
-
 ## 🚀 About Me
-🙋‍♂️ offee, code, and conquering the web! ☕ That's me, UMAR! A self-taught web development enthusiast with 6 months of experience, currently diving deep into The Odin Project's Full-Stack JavaScript path. I'm passionate about building interactive experiences and solving problems through code.
+🙋‍♂️ Coffee, code, and conquering the web! ☕ That's me, UMAR! A self-taught web development enthusiast with 6 months of experience, currently diving deep into The Odin Project's Full-Stack JavaScript path. I'm passionate about building interactive experiences and solving problems through code.
 
 
 ## 🧑‍💻 Skills & 🧑‍🏫 Interests:
@@ -24,7 +20,7 @@
 - 🧗 Areas for Improvement: Time management, discipline, decision making, English fluency.
 
 ## 🧳 Current Projects & 🧑‍🏫 Learning:
-- Building projects to practice JavaScript skills (available on GitHub)
+- Learning JavaScript through prectice [JavaScript](https://github.com/OmarRana-dev/learning-javascript-through-practice)
 
 - Working on The Odin Project's Full-Stack JavaScript curriculum (currently in the JavaScript course)
 
