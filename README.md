@@ -8,7 +8,7 @@
 
 
 
-![GitHub](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/e3efe05d-9753-4c66-8f0c-f34cbbd512aa) width="200"
+![GitHub2 (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/e44ba89c-d8fb-49c4-9d1c-9a8adf033b2a)
 
 
 ## 🚀 About Me
@@ -42,15 +42,15 @@
 📫 📫 How to reach me ... With my email →: omarrana190@gmail.com
 
 ## 🛠 Skills
-![CSS_icon](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/5528f03d-bbc7-43e2-9a22-1e87cbb5339f) width="100"
+![javascript-1 (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ef6e2c90-c627-433b-b794-98710cba2597)
 
-![HTML5_icon](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/41e0112a-e454-4ffd-b04f-2d28dcd93795) width="100"
+![CSS_icon (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/73b1569a-e540-44b9-a89f-0794379961da)
 
-![JavaScript_icon](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/54f12c7f-c13c-4391-9687-1bebad91a636) width="100"
+![HTML5_icon (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ac4dafff-dcea-4117-a163-4a7a3c2653de)
 
-![pythonlogo](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/30d66032-0fa5-468e-b574-d0bf892c6ef5) width="100"
+![pythonlogo (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/8e950f2b-ba12-4be6-b02b-fa2daee2d49b)
 
-![gitlogo](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ad026abe-98a5-4246-9b0d-06289812aacc) width="100"
+![gitlogo](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/6c7f3297-485c-4ce6-81e9-0a7a12921f7e)
 <!---
 OmarRana-dev/omarrana-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
