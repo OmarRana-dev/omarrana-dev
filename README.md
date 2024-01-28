@@ -1,14 +1,14 @@
 # Coffee, code, and conquering the web! ☕ That's me, UMAR RANA! 👋
 
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theRealOmarDev)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theRealOmarDev) <br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/therealomar-dev)
 
 
 
 
 
-![GitHub](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/e3efe05d-9753-4c66-8f0c-f34cbbd512aa) 
+![GitHub](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/e3efe05d-9753-4c66-8f0c-f34cbbd512aa) width="200"
 
 
 ## 🚀 About Me
@@ -42,15 +42,15 @@
 📫 📫 How to reach me ... With my email →: omarrana190@gmail.com
 
 ## 🛠 Skills
-![CSS_icon](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/5528f03d-bbc7-43e2-9a22-1e87cbb5339f)
+![CSS_icon](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/5528f03d-bbc7-43e2-9a22-1e87cbb5339f) width="100"
 
-![HTML5_icon](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/41e0112a-e454-4ffd-b04f-2d28dcd93795)
+![HTML5_icon](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/41e0112a-e454-4ffd-b04f-2d28dcd93795) width="100"
 
-![JavaScript_icon](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/54f12c7f-c13c-4391-9687-1bebad91a636)
+![JavaScript_icon](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/54f12c7f-c13c-4391-9687-1bebad91a636) width="100"
 
-![pythonlogo](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/30d66032-0fa5-468e-b574-d0bf892c6ef5)
+![pythonlogo](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/30d66032-0fa5-468e-b574-d0bf892c6ef5) width="100"
 
-![gitlogo](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ad026abe-98a5-4246-9b0d-06289812aacc)...
+![gitlogo](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ad026abe-98a5-4246-9b0d-06289812aacc) width="100"
 <!---
 OmarRana-dev/omarrana-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
