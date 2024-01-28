@@ -4,15 +4,21 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theRealOmarDev) <br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/therealomar-dev)
 
+<style>
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+  }
+</style>
 
-
-
-
-![GitHub2 (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/e44ba89c-d8fb-49c4-9d1c-9a8adf033b2a)
-
+<div class="center">
+  ![GitHub2 (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/e44ba89c-d8fb-49c4-9d1c-9a8adf033b2a)
+</div>
 
 ## 🚀 About Me
-🙋‍♂️ I'm a self-taught web development enthusiast with 6 months of experience, currently diving deep into The Odin Project's Full-Stack JavaScript path. I'm passionate about building interactive experiences and solving problems through code.
+🙋‍♂️ Coffee, code, and conquering the web! ☕ That's me, a self-taught web development enthusiast with 6 months of experience, currently diving deep into The Odin Project's Full-Stack JavaScript path. I'm passionate about building interactive experiences and solving problems through code.
 
 
 ## 🧑‍💻 Skills & 🧑‍🏫 Interests:
