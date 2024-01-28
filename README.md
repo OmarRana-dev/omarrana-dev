@@ -1,24 +1,15 @@
-# Hi, I'm UMAR! 👋
+<h1 align="center">Hi 👋, I'm UMAR!</h1>
+<h3 align="center">A passionate Web Developer from Pakistan.</h3>
 
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theRealOmarDev) <br>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/therealomar-dev)
 
-<style>
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%; 
-  }
-</style>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarrana-dev&label=Profile%20views&color=0e75b6&style=flat" alt="omarrana-dev" /> </p>
+<p align="left"> <a href="https://twitter.com/therealomardev" target="blank"><img src="https://img.shields.io/twitter/follow/therealomardev?logo=twitter&style=for-the-badge" alt="therealomardev" /></a> </p>
 
-<div class="center">
-  ![GitHub2 (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/e44ba89c-d8fb-49c4-9d1c-9a8adf033b2a)
-</div>
+<div align="center"> <img alt="Coding" width="300" src="https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/e44ba89c-d8fb-49c4-9d1c-9a8adf033b2a" /> </div>
 
 ## 🚀 About Me
-🙋‍♂️ Coffee, code, and conquering the web! ☕ That's me, a self-taught web development enthusiast with 6 months of experience, currently diving deep into The Odin Project's Full-Stack JavaScript path. I'm passionate about building interactive experiences and solving problems through code.
+🙋‍♂️ offee, code, and conquering the web! ☕ That's me, UMAR! A self-taught web development enthusiast with 6 months of experience, currently diving deep into The Odin Project's Full-Stack JavaScript path. I'm passionate about building interactive experiences and solving problems through code.
 
 
 ## 🧑‍💻 Skills & 🧑‍🏫 Interests:
@@ -45,10 +36,20 @@
 - 🫅 Mentorship or guidance from experienced developers
 
 
-📫 📫 How to reach me ... With my email →: omarrana190@gmail.com
+- 📫 How to reach me ... With my email →: omarrana190@gmail.com
 
-## 🛠 Skills
-![javascript-1 (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ef6e2c90-c627-433b-b794-98710cba2597) ![CSS_icon (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/73b1569a-e540-44b9-a89f-0794379961da) ![HTML5_icon (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/ac4dafff-dcea-4117-a163-4a7a3c2653de) ![pythonlogo (1)](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/8e950f2b-ba12-4be6-b02b-fa2daee2d49b) ![gitlogo](https://github.com/OmarRana-dev/omarrana-dev/assets/110420500/6c7f3297-485c-4ce6-81e9-0a7a12921f7e)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/therealomardev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealomardev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/therealomar-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="therealomar-dev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omarrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omarrana" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
 <!---
 OmarRana-dev/omarrana-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
