@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/therealomardev" target="blank"><img src="https://img.shields.io/twitter/follow/therealomardev?logo=twitter&style=for-the-badge" alt="therealomardev" /></a> </p>
 
 ## 🚀 About Me
-🙋‍♂️ Coffee, code, and conquering the web! ☕ That's me, UMAR! A self-taught web development enthusiast with 6 months of experience, currently diving deep into The Odin Project's Full-Stack JavaScript path. I'm passionate about building interactive experiences and solving problems through code.
+🙋‍♂️ Coffee, code, and conquering the web! ☕ That's me, UMAR! A self-taught web developer enthusiast with 6 months of experience, currently diving deep into The Odin Project's Full-Stack JavaScript path. I'm passionate about building interactive experiences and solving problems through code.
 
 
 ## 🧑‍💻 Skills & 🧑‍🏫 Interests:
