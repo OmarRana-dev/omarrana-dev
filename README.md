@@ -9,7 +9,7 @@
 
 
 ## 🧑‍💻 Skills & 🧑‍🏫 Interests:
-- 👩‍💻 Front-End:🧩 Intermediate HTML/CSS Basic to Intermediate JavaScript.
+- 👩‍💻 Front-End:🧩 Intermediate HTML/CSS Intermediate JavaScript.
 
 - 🗃 Learning: The Odin Project, YouTube channels (freeCodeCamp, Chai aur Code, Kevin Powell, Dave Gray, Traversy Media...)
 
