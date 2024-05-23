@@ -8,29 +8,10 @@
 🙋‍♂️ Coffee, code, and conquering the web! ☕ That's me, UMAR! A self-taught web developer enthusiast with 6 months of experience, currently diving deep into The Odin Project's Full-Stack JavaScript path. I'm passionate about building interactive experiences and solving problems through code.
 
 
-## 🧑‍💻 Skills & 🧑‍🏫 Interests:
-- 👩‍💻 Front-End:🧩 Intermediate HTML/CSS Intermediate JavaScript.
-
-- 🗃 Learning: The Odin Project, YouTube channels (freeCodeCamp, Chai aur Code, Kevin Powell, Dave Gray, Traversy Media...)
-
-- ♟ Back-End: Eager to learn and contribute!
-
-- ✊ Strengths: Consistent learner, strong analytical skills, driven to grow and lead.
-
-- 🧗 Areas for Improvement: Time management, discipline, decision making, English fluency.
-
-## 🧳 Current Projects & 🧑‍🏫 Learning:
-- Learning JavaScript through prectice [JavaScript](https://github.com/OmarRana-dev/learning-javascript-through-practice)
-
-- Working on The Odin Project's Full-Stack JavaScript curriculum (currently in the JavaScript course)
-
 ## 👀 Looking for:
-- 🚨 An internship in a software house to learn full-stack development🚀 (front-end, back-end, database)
-
-- 🔦 Opportunities to contribute to open-source projects
+- 🚨 An internship in a software house to learn full-stack development🚀 (front-end, back-end)
 
 - 🫅 Mentorship or guidance from experienced developers
-
 
 - 📫 How to reach me ... With my email →: omarrana190@gmail.com
 
